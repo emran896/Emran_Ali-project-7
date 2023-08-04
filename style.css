@@ -1,0 +1,99 @@
+.top-header{
+    background-color: #bdc3c7;
+}
+.phone-emil{
+    font-size: 10px;
+    padding: 3px 1px;
+}
+.toop-icoon{
+    text-align: right;
+    font-size: 15px;
+    padding: -6px 21px;
+}
+.social-icon{
+    text-align: right;
+}
+.menu{
+    background-color: #fff;
+    padding: 0 0;
+    margin: 0 0;
+}
+.image-thaimbol{
+    width: 60px;
+    padding: 0;
+    margin: 0;
+}
+.logo-titel{
+    font-size: 13px;
+    padding: 11px 0px;
+    max-width: 20px 20px;
+}
+.main-menu{
+    text-align: right;
+}
+.main-menu ul{
+    padding: 17px 0px;
+    margin-bottom: 1px;
+}
+.main-menu ul li{
+    display: inline-block;
+    margin-left: -4px;
+}
+.main-menu ul li a{
+    font-size: 15px;
+    color: black;
+    padding: 20px 20px;
+    border-right: 1px solid rgb(49, 47, 47);
+    
+}
+.main-menu ul li:first-child a{
+    border-left: -1px solid rgb(49, 47, 47);
+}
+.main-menu ul li a:hover{
+    background: #30A176;
+}
+.slider{
+    background-image: url(./Picture/Banner.jpg);
+    background-position: center;
+    padding: 100px 0;
+}
+.about-c{
+    background-color: rgb(48, 161, 118);
+    padding: 20px;
+}
+.icon{
+    font-size: 50px;
+    color: #30A176;
+}
+.maindiv1{
+    height: 80px;
+    width: 400px;
+    background-color: rgb(48, 161, 118);
+}
+.we-aim{
+    text-align: left 20px;
+}
+.maindiv2{
+    height: 120px;
+    width: 550px;
+    color: #fff;
+    background-color: rgb(48, 161, 118);
+}
+.icon-move{
+    position: absolute;
+    font-size: 40px;
+    margin-left: 20px;
+}
+.image-1{
+    height: 200px;
+    width: 300px;
+}
+.contact-us{
+    background-color: rgb(48, 161, 118);
+    padding: 100px 0px;
+}
+.contact-right{
+    padding: 0px 170px;
+}
+.contact-right get-Direction{
+}
